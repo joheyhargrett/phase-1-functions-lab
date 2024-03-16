@@ -5,9 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
+<<<<<<< HEAD
     "start": "2024-03-16T18:24:30.387Z",
     "end": "2024-03-16T18:24:30.743Z",
     "duration": 356
+=======
+    "start": "2024-02-16T21:19:51.223Z",
+    "end": "2024-02-16T21:19:51.456Z",
+    "duration": 233
+>>>>>>> 8b09a4057f9b029e25ef4309d5ff1f1f4e520be7
   },
   "tests": [
     {
@@ -34,7 +40,11 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> 8b09a4057f9b029e25ef4309d5ff1f1f4e520be7
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +79,11 @@
     {
       "title": "returns distance when destination is below distance",
       "fullTitle": "index.js distanceTravelledInFeet() returns distance when destination is below distance",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> 8b09a4057f9b029e25ef4309d5ff1f1f4e520be7
       "currentRetry": 0,
       "err": {}
     },
@@ -129,7 +143,11 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> 8b09a4057f9b029e25ef4309d5ff1f1f4e520be7
       "currentRetry": 0,
       "err": {}
     },
@@ -164,7 +182,11 @@
     {
       "title": "returns distance when destination is below distance",
       "fullTitle": "index.js distanceTravelledInFeet() returns distance when destination is below distance",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> 8b09a4057f9b029e25ef4309d5ff1f1f4e520be7
       "currentRetry": 0,
       "err": {}
     },
